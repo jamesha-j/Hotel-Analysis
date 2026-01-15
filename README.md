@@ -18,6 +18,6 @@
 * LinkedIn: [linkedin.com/in/jamesha-grant](linkedin.com/in/jamesha-grant)
 
 
-
+![Hotel Dashboard](https://github.com/jamesha-j/Hotel-Analysis/blob/main/HotelDashboard.jpeg)
 
 
